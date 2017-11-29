@@ -1,6 +1,14 @@
 # Future of Software Design Workshop 2017
 
-insert absract here
+Our hope is to gather a small number of thoughtful people (roughly two dozen) with somewhat diverse backgrounds.  
+Our objectives are to:
+
+* Get academics and industry chatting
+* Keep the group small with ample social gathering (dinners, etc.) for discussion to continue informally
+* Bring big ideas about software design (not just architecture) and related areas
+* Provide enough structure to reveal different ideas but allow the conversations to flow
+
+It would be nice to get a modest publication or continued collaboration
 
 ## Important Dates
 
