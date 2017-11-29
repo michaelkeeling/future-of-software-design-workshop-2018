@@ -11,9 +11,16 @@ insert absract here
 ## More Information
 
 * [Call to Action](call-to-action.md)
-* [Agenda](agenda.md)
-* [Logistics](logistics.md)
+* [Participation](participation.md)
+* [Workshop Agenda](agenda.md)
 
+### Location and 
+
+The workshop iwll take place in Pittsburgh, PA at the [Hotel Monaco](http://www.monaco-pittsburgh.com/).
+
+* [Getting to the workshop](logistics.md#travel)
+* [Book your stay](logistics.md#hotel monaco)
+* [About Pittsburgh](logistics.md#other things to do in pittsburgh)
 
 ## About the Software Engineering Institute
 
