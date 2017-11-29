@@ -19,8 +19,8 @@ insert absract here
 The workshop iwll take place in Pittsburgh, PA at the [Hotel Monaco](http://www.monaco-pittsburgh.com/).
 
 * [Getting to the workshop](logistics.md#travel)
-* [Book your stay](logistics.md#hotel monaco)
-* [About Pittsburgh](logistics.md#other things to do in pittsburgh)
+* [Book your stay](logistics.md#hotelmonaco)
+* [About Pittsburgh](logistics.md#otherthingstodoinpittsburgh)
 
 ## About the Software Engineering Institute
 
