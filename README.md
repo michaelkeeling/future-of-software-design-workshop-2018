@@ -37,7 +37,8 @@ The workshop will take place in Pittsburgh, PA at the [Hotel Monaco](http://www.
 ## Workshop Organizers
 
 * Linda Northrop
-* Ipek Ozkaya
+* [Ipek Ozkaya](https://www.sei.cmu.edu/about/people/profile.cfm?id=ozkaya_13614) | 
+  [@ipekozkaya](https://twitter.com/ipekozkaya)
 * [George Fairbanks](https://github.com/georgefairbanks) |
   [@GHFairbanks](https://twitter.com/GHFairbanks) |
   [http://georgefairbanks.com](http://georgefairbanks.com/)
