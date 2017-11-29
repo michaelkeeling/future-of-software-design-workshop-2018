@@ -32,7 +32,7 @@ The workshop will take place in Pittsburgh, PA at the [Hotel Monaco](http://www.
 
 ## About the Software Engineering Institute
 
-
+For over three decades, the Software Engineering Institute (SEI) has been helping government and industry organizations to acquire, develop, operate, and sustain software systems that are innovative, affordable, enduring, and trustworthy. It serves the nation as a Federally Funded Research and Development Center (FFRDC) sponsored by the U.S. Department of Defense (DoD) and is based at Carnegie Mellon University, a global research university annually rated among the best for its programs in computer science and engineering.
 
 ## Workshop Organizers
 
