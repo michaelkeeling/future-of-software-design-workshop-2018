@@ -2,3 +2,4 @@
 
 * [Call to Action](call-to-action.md)
 * [Agenda](agenda.md)
+* [Logistics](logistics.md)
