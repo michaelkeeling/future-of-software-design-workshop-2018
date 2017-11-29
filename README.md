@@ -8,7 +8,7 @@ Our objectives are to:
 * Bring big ideas about software design (not just architecture) and related areas
 * Provide enough structure to reveal different ideas but allow the conversations to flow
 
-It would be nice to get a modest publication or continued collaboration
+It would be nice to get a modest publication or continued collaboration.
 
 ## Important Dates
 
