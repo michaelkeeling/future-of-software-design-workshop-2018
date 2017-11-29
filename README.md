@@ -1,1 +1,4 @@
-# future-of-software-design-workshop-2017
+# Future of Software Design Workshop 2017
+
+* [Call to Action](call-to-action.md)
+* [Agenda](agenda.md)
