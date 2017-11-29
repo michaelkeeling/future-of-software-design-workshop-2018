@@ -21,14 +21,15 @@ It would be nice to get a modest publication or continued collaboration.
 * [Call to Action](call-to-action.md)
 * [Participation](participation.md)
 * [Workshop Agenda](agenda.md)
+* [Read ahead materials](references.md)
 
 ### Hotel and venue
 
 The workshop will take place in Pittsburgh, PA at the [Hotel Monaco](http://www.monaco-pittsburgh.com/).
 
-* [Getting to the workshop](logistics.md#travel)
-* [Book your stay](logistics.md#hotelmonaco)
-* [About Pittsburgh](logistics.md#otherthingstodoinpittsburgh)
+* [Getting to Pittsburgh](logistics.md#getting-to-pittsburgh)
+* [Venue and Hotel](logistics.md#venue-and-hotel)
+* [Other things to do and see while in Pittsburgh](logistics.md#other-things-to-do-and-see-in-pittsburgh)
 
 ## About the Software Engineering Institute
 
