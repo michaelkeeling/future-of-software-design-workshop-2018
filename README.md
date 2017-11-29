@@ -22,9 +22,9 @@ It would be nice to get a modest publication or continued collaboration.
 * [Participation](participation.md)
 * [Workshop Agenda](agenda.md)
 
-### Location and 
+### Hotel and venue
 
-The workshop iwll take place in Pittsburgh, PA at the [Hotel Monaco](http://www.monaco-pittsburgh.com/).
+The workshop will take place in Pittsburgh, PA at the [Hotel Monaco](http://www.monaco-pittsburgh.com/).
 
 * [Getting to the workshop](logistics.md#travel)
 * [Book your stay](logistics.md#hotelmonaco)
