@@ -37,7 +37,7 @@ For over three decades, the Software Engineering Institute (SEI) has been helpin
 
 ## Workshop Organizers
 
-* Linda Northrop
+* [Linda Northrop](https://www.sei.cmu.edu/about/people/profile.cfm?id=northrop_13182) 
 * [Ipek Ozkaya](https://www.sei.cmu.edu/about/people/profile.cfm?id=ozkaya_13614) | 
   [@ipekozkaya](https://twitter.com/ipekozkaya)
 * [George Fairbanks](https://github.com/georgefairbanks) |
