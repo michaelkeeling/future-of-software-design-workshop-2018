@@ -28,9 +28,3 @@ What questions do you have about the future of software development?
 What worries you most?
 
 What might the world look like in 5, 10, 15 years?
-
-## Costs
-
-The SEI is very graciously sponsoring this event and will defray all meeting
-room and food costs.  Participants are responsible for covering travel, lodging
-(we have negotiated a $129 per night room block rate), and alcohol.
