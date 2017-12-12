@@ -3,7 +3,7 @@
 ## Venue and hotel 
 
 The conference will take place in the [Hotel Monaco](http://www.monaco-pittsburgh.com)
-in downtown Pittsburgh PA.  We have negotiated a $129 per night room block rate.
+in downtown Pittsburgh PA.
  
 ## Getting to Pittsburgh
 
