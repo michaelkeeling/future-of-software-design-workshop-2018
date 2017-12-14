@@ -4,6 +4,17 @@
 
 The conference will take place in the [Hotel Monaco](http://www.monaco-pittsburgh.com)
 in downtown Pittsburgh PA.
+
+We have room block for our group at $129/night (excluding fees and taxes).
+
+Reservations can be made one of two ways.  You can call 1-855-338-3837 and reference CMU SEI Future of Software Design Meeting, this will help the reservationists find the group and be able to complete the reservation correctly.   Or you can use the link below. 
+ 
+Booking Link:
+[CMU SEI Future of Software Design](https://gc.synxis.com/rez.aspx?Chain=10179&start=availresults&arrive=1/12/2018&depart=1/14/2018&adult=1&child=0&group=E2E&hotel=61775)
+
+This rate is reserved until December 22, 2017 for our group. Please complete your reservation by this date.
+
+Cancellation policy: Must be canceled at least 48 hours prior to your arrival date, 6pm local hotel time to avoid a one night's room and tax charge to your credit card.
  
 ## Getting to Pittsburgh
 
