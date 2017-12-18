@@ -45,3 +45,29 @@ What questions do you have about the future of software development?
 What worries you most?
 
 What might the world look like in 5, 10, 15 years?
+
+##Attendees
+
+Felix	Bachmann,	SEI
+Len	Bass,	Independent
+Jeff	Boleng,	SEI 
+Owen	Cheng,	Uber
+Justin	Erenkrantz,	Bloomberg/Apache
+George	Fairbanks,	Google
+Dick	Gabriel,	Independent
+David	Garlan,	CMU
+Tim	Halloran,	Google
+Andre van der	Hoek,	University of California, Irvine
+James	Ivers,	SEI
+Michael	Keeping,	IBM
+John	Klein,	SEI
+Andrew	Kompanek,	SEI
+Philippe	Kruchten,	University of British Columbia
+Linda	Northrop,	SEI
+Ipek	Ozkaya,	SEI
+Marian	Petre,	The Open University
+Pat	Riley,	Google
+Mary	Shaw,	CMU
+Kevin	Sullivan,	University of Virginia
+Eric	Werner,	Uber
+Rebecca	Wirfs-Brock,	Independent
