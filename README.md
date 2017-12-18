@@ -13,14 +13,14 @@ It would be nice to get a modest publication or continued collaboration.
 
 ## Important Dates
 
-* Confirm participation (RSVP) - December 20, 2017
+* Confirm participation (RSVP) - December 22, 2017
 * Lightning talks and position papers due - January 8, 2018
 * Workshop: January 12 - 14, 2018
 
 ## More Information
 
 * [Call to Action](call-to-action.md)
-* [Participation](participation.md)
+* [Participation and List of Attendees](participation.md)
 * [Workshop Agenda](agenda.md)
 * [Read ahead materials](references.md)
 
