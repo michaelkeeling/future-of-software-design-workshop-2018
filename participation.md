@@ -3,19 +3,36 @@
 This first iteration of the workshop is invitation only.  We plan to post
 notes and summaries from the workshop to this repo.
 
+The organizers will facilitate the sessions.  The danger in such a meeting with so many talented, accomplished people is that we will not meet the meeting objectives.  To mitigate this risk we will follow the attached agenda and use facilitation and meeting management techniques.  We will of course evaluate the process as we progress to tailor as needed, but we will actively guard against the pitfalls of sessions like these (e.g., too much talk and no results).
+
 ## Lighting Talks
 
-To help warm everyone up for a great discussion we are asking everyone
-to prepare a lightning talk to share with the group on Saturday morning.
+We will use Lightening Talks as a way to introduce the workshop members and their views.
 
-All lightning talks will be five minutes or less.  The format is 100% to you.
-We will have projectors and flip charts available if you would like to use
+Each of you will have EXACTLY five minutes to introduce yourself and to give your ingoing position on the big ideas for future software design, obstacles for realizing them that may include research challenges, and any relationship to mainstream trends.    You may use slides or not, but if you do we recommend that you prepare a small number of slides that you can present in five minutes.  
+
+The format is 100% to you. We will have projectors and flip charts available if you would like to use
 those during your lightning talk.  Slides are optional but if you choose
 to use slides remember to bring your laptop and appropriate display port
 adapters.
 
 Please share your slides or a brief write-up of your lighting talk with
 everyone before the workshop by submitting a pull request to this repo.
+
+## Workshop Preparation
+
+Please post the following to the this site in advance of the workshop
+- a brief bio
+- a position paper (optional) and/or links to three to six of your works (papers, books, reports) that best represent your current expertise and work
+- your slides for your Lightening Talk
+
+As time permits, please review the information posted on the site in advance of the workshop to
+- learn about the other participants
+- have a rough understanding of their expertise and work
+
+You can share this information by submitting a pull request to this repo.
+
+We will not get into a group discussion in advance of the workshop.
 
 ### Ideas for your Lightning Talk
 
