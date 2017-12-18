@@ -15,6 +15,9 @@ Booking Link:
 This rate is reserved until December 22, 2017 for our group. Please complete your reservation by this date.
 
 Cancellation policy: Must be canceled at least 48 hours prior to your arrival date, 6pm local hotel time to avoid a one night's room and tax charge to your credit card.
+
+## Registration
+Please fill in this [registration form] (https://future-of-sw-design.eventbrite.com) so that we have all the information we need for logistical planning purposes.  
  
 ## Getting to Pittsburgh
 
