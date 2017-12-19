@@ -48,10 +48,7 @@ http://www.kstoolkit.org/Brain+Writing
 
 ### 17:00 - 17:30 Sync up
 Share the discussions
-What are we learning:
-	Challenges
-	Fruitful directions
-	Out of the box ideas
+What are we learning: challenges, fruitful directions, out of the box ideas
 
 Adjourn for team dinner
 
