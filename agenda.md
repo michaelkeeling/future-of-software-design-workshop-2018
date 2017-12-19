@@ -64,5 +64,6 @@ Give everyone a chance to reflect on the activities, are we converging/diverging
 ### 10:00-10:30 Break
 
 ### 10:30-12:30 Group discussion, next steps, retrospective
+Big take-aways, ideas, implications
 
 ### 12:30 Lunch and adjourn
