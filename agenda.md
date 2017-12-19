@@ -29,9 +29,9 @@ This time slot assumes about 10 presentations. This can be done pre-prepared or 
 
 ### 10:30-11:00 Break
 
-### 11:00-12:00 pitches continue
+### 11:00-12:00 discussion themes, expected outcomes
 
-The point of the pitches is that we take a note of the themes, probe for discussion, group ideas etc as well. This should continue as a group too.
+
 
 ### 12:00-13:00 Lunch
 
