@@ -46,7 +46,7 @@ http://www.kstoolkit.org/Brain+Writing
 
 ### 15:30 - 17:00 Small group discussion
 
-### 17:00 - 17:30 Sync up
+### 17:00 - 17:45 Sync up
 Share the discussions
 What are we learning: challenges, fruitful directions, out of the box ideas
 
@@ -60,9 +60,7 @@ On site breakfast
 
 Give everyone a chance to reflect on the activities, are we converging/diverging
 
-### 8:45-10:00 How would we explain what we talked about to others?
-
-I don’t have a good way of titling this, but if people are excited what would be the mechanism to share, what is the call to action. Obviously we will not solve anything in a day and a half, but we can come up with a starting action plan?
+### 8:45-10:00 What are we learning?
 
 ### 10:30-11:00 Break
 
