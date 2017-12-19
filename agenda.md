@@ -29,20 +29,22 @@ This time slot assumes about 10 presentations. This can be done pre-prepared or 
 
 ### 10:30-11:00 Break
 
-### 11:00-12:00 discussion themes, expected outcomes
+### 11:00-12:30 Discussion themes, expected outcomes
+What we have heard?
+what we would like to focus on?
+What are common themes?
+What we would like to get out of the discussions?
 
+### 12:30-13:30 Lunch
 
-
-### 12:00-13:00 Lunch
-
-### 13:00-15:00 Small group discussion
+### 13:30-15:00 Small group discussions
 
 We can use several techniques here. If there a actual themes emerging we can just divide up. But I find that rarely useful. I am not sure how everyone would be receptive but can we maybe try out things like brainwriting for part of the time or even in small groups;
 http://www.kstoolkit.org/Brain+Writing
 
 ### 15:00-15:30 Break
 
-### 15:30 - 17:30 Group discussion
+### 15:30 - 17:30 Small group discussion
 
 What are we learning:
 	Challenges
