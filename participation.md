@@ -70,7 +70,7 @@ Andre van der	Hoek,	University of California, Irvine
 
 James	Ivers,	SEI
 
-Michael	Keeping,	IBM
+Michael	Keeling,	IBM
 
 John	Klein,	SEI
 
