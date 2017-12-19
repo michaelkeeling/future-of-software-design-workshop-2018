@@ -25,8 +25,6 @@ What are the challenges that current technology/advances are not addressing
 What kind of a vision will drive software systems of the future that the individual sees
 What are the needed innovations that we should be rallying behind
 
-This time slot assumes about 10 presentations. This can be done pre-prepared or we can do it open space style as well. 
-
 ### 10:30-11:00 Break
 
 ### 11:00-12:30 Discussion themes, expected outcomes
