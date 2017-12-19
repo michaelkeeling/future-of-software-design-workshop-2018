@@ -51,7 +51,7 @@ What are we learning:
 	Fruitful directions
 	Out of the box ideas
 
-Adorn team dinner
+Adjourn for team dinner
 
 ## Sunday, Jan 14
 
