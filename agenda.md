@@ -44,8 +44,10 @@ http://www.kstoolkit.org/Brain+Writing
 
 ### 15:00-15:30 Break
 
-### 15:30 - 17:30 Small group discussion
+### 15:30 - 17:00 Small group discussion
 
+### 17:00 - 17:30 Sync up
+Share the discussions
 What are we learning:
 	Challenges
 	Fruitful directions
