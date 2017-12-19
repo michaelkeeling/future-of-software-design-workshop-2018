@@ -55,15 +55,15 @@ Adjourn for team dinner
 
 On site breakfast
 
-### 8:30 -8:45 Sync up
+### 8:30 -9:30 Sync up
 
-Give everyone a chance to reflect on the activities, are we converging/diverging
-
-### 8:45-10:00 Small group discussions cont. 
-
-### 10:00-10:30 Break
-
-### 10:30-12:30 Group discussion, next steps, retrospective
 Big take-aways, ideas, implications
+
+### 9:30-9:45 Break 
+
+### 9:45-11:00 Break
+Implications,challenges, next steps
+
+### 11:00-12:30 Group discussion, next steps, retrospective
 
 ### 12:30 Lunch and adjourn
