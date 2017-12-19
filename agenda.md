@@ -65,5 +65,8 @@ Big take-aways, ideas, implications
 Implications, challenges, next steps
 
 ### 11:00-12:30 Group discussion, next steps, retrospective
+Report outs from group discussions
+
+Next steps
 
 ### 12:30 Lunch and adjourn
