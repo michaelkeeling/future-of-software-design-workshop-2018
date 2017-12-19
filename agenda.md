@@ -20,7 +20,7 @@ On-site breakfast
 
 ### 8:30- 10:30 Pitches by participants
 
-5 minute presentations by participants, their input/what they bring to the table. At a minimum we should probably ask:
+[5 minute lightning talks](https://github.com/michaelkeeling/future-of-software-design-workshop-2017/blob/master/participation.md#lighting-talks) by participants, their input/what they bring to the table. At a minimum we should probably ask:
 What are the challenges that current technology/advances are not addressing
 What kind of a vision will drive software systems of the future that the individual sees
 What are the needed innovations that we should be rallying behind
