@@ -62,7 +62,7 @@ Big take-aways, ideas, implications
 ### 9:30-9:45 Break 
 
 ### 9:45-11:00 Break
-Implications,challenges, next steps
+Implications, challenges, next steps
 
 ### 11:00-12:30 Group discussion, next steps, retrospective
 
