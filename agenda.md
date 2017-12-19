@@ -44,8 +44,9 @@ http://www.kstoolkit.org/Brain+Writing
 
 ### 15:30 - 17:00 Small group discussion
 
-### 17:00 - 17:45 Sync up
+### 17:00 - 17:30 Preliminary reports from groups
 Share the discussions
+
 What are we learning: challenges, fruitful directions, out of the box ideas
 
 Adjourn for team dinner
@@ -58,10 +59,10 @@ On site breakfast
 
 Give everyone a chance to reflect on the activities, are we converging/diverging
 
-### 8:45-10:00 Small group discussions
+### 8:45-10:00 Small group discussions cont. 
 
 ### 10:00-10:30 Break
 
-### 10:30-12:30 Discussion, next steps, retrospective
+### 10:30-12:30 Group discussion, next steps, retrospective
 
 ### 12:30 Lunch and adjourn
