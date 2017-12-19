@@ -60,10 +60,10 @@ On site breakfast
 
 Give everyone a chance to reflect on the activities, are we converging/diverging
 
-### 8:45-10:00 What are we learning?
+### 8:45-10:00 Small group discussions
 
-### 10:30-11:00 Break
+### 10:00-10:30 Break
 
-### 11:00-12:00 Discussion, next steps, retrospective
+### 10:30-12:30 Discussion, next steps, retrospective
 
-### 12:00 Lunch and adjourn
+### 12:30 Lunch and adjourn
