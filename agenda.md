@@ -11,18 +11,16 @@ Share - discussions in email? Slack?
 
 Arrive, meet and greet drinks and dinner
 
-Time, Location TBD
+Time
+Location: Hotel Monaco
 
 ## Saturday, Jan 13
 
 On-site breakfast
 
-### 8:30-9:00 Set the stage
-Organizers introduction, why we wanted to do this what are our goals. Foster some open discussion to confirm the participants expectations. Jot down a couple bullets what we collectively would like to accomplish. Hopefully and ideally this will overlap significantly with what we probe in our introduction. 
+### 8:30- 10:30 Pitches by participants
 
-### 9:00-10:30 Pitches by participants
-
-5-7 minute presentations by participants, their input/what they bring to the table. At a minimum we should probably ask:
+5 minute presentations by participants, their input/what they bring to the table. At a minimum we should probably ask:
 What are the challenges that current technology/advances are not addressing
 What kind of a vision will drive software systems of the future that the individual sees
 What are the needed innovations that we should be rallying behind
