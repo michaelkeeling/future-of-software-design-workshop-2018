@@ -56,7 +56,7 @@ Jeff	Boleng,	SEI
 
 Owen	Cheng,	Uber
 
-Justin	Erenkrantz,	Bloomberg/Apache
+Justin	Erenkrantz,	Major League Baseball
 
 George	Fairbanks,	Google
 
