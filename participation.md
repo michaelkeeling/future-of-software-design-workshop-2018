@@ -36,15 +36,16 @@ We will not get into a group discussion in advance of the workshop.
 
 ### Ideas for your Lightning Talk
 
-Who are you?  What do you hope to get of this workshop?
+* Who are you?  What do you hope to get of this workshop?
+* What kind of a vision will drive software systems of the future that the individual sees?
+* What are some problems you see today?  What problems do you
+  think we might face 5, 10, 15 years down the road?
+* What are the challenges that current technology/advances are not addressing?
+* What questions do you have about the future of software development?
+  What worries you most?
+* What might the world look like in 5, 10, 15 years?
+* What are the needed innovations that we should be rallying behind?
 
-What are some problems you see today?  What problems do you
-think we might face 5, 10, 15 years down the road?
-
-What questions do you have about the future of software development?
-What worries you most?
-
-What might the world look like in 5, 10, 15 years?
 
 ## Attendees
 
@@ -70,7 +71,7 @@ Andre van der	Hoek,	University of California, Irvine
 
 James	Ivers,	SEI
 
-Michael	Keeling,	IBM
+Michael	Keeling,	IBM ([website](https://neverletdown.net) | [@michaelkeeling](https://twitter.com/michaelkeeling))
 
 John	Klein,	SEI
 
