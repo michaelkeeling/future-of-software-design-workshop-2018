@@ -68,7 +68,7 @@ Lunch provided.
 ### 13:30 - 15:00 Small group discussions
 
 
-We can use several techniques here. If there a actual themes emerging we can just divide up. But I find that rarely useful. I am not sure how everyone would be receptive but can we maybe try out things like brainwriting for part of the time or even in small groups;
+We can use several techniques here. If there a actual themes emerging we can just divide up. I am not sure how everyone would be receptive but can we maybe try out things like brainwriting for part of the time or even in small groups;
 http://www.kstoolkit.org/Brain+Writing
 
 ### 15:00-15:30 Break
