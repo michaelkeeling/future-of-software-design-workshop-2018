@@ -55,11 +55,6 @@ Goal: Create a more detailed agenda for the afternoon sessions.
 
 Outcomes: Raw notes posted to the website, detailed agenda
 
-Hints and Tips:
-
-*
-
-
 
 ### 12:30-13:30 Lunch
 
@@ -107,7 +102,7 @@ Share the discussions
 
 What are we learning: challenges, fruitful directions, out of the box ideas
 
-Adjourn for team dinner at Pirate Restaurant, walking distance from the hotel
+Adjourn for team dinner at Pirata Restaurant, walking distance from the hotel
 274 Forbes Avenue, Pgh, 15222
 http://www.piratapgh.com/  
 
