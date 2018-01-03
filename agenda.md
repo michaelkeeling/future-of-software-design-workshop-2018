@@ -11,7 +11,7 @@ Before the workshop
 
 Arrive, meet and greet drinks and dinner
 
-Time: TBD evening
+5:30-6:30 PM Reception followed by dinner
 
 Location: Hotel Monaco
 
@@ -107,7 +107,9 @@ Share the discussions
 
 What are we learning: challenges, fruitful directions, out of the box ideas
 
-Adjourn for team dinner
+Adjourn for team dinner at Pirate Restaurant, walking distance from the hotel
+274 Forbes Avenue, Pgh, 15222
+http://www.piratapgh.com/  
 
 ## Sunday, Jan 14
 
