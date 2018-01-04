@@ -11,7 +11,7 @@ Sept 26, 2017
 https://www.theatlantic.com/technology/archive/2017/09/saving-the-world-from-code/540393/?utm_source=fbb
 
 
-# General Resources
+General Software Engineering Resources
 
 * Seminal Papers in Software Engineering:  The Carnegie Mellon Canonical Collection
 M. Shaw, J. Aldrich, T. Breaux, D. Garlan, C. Kastner
