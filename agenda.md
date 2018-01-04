@@ -98,7 +98,8 @@ remix the groups and pick new topics if people want to do so.
 
 ### 17:00 - 17:30 Preliminary reports from groups
 
-Share the discussions
+Before we break for the day we'll share some of the things we discovered during the
+group discussions.
 
 What are we learning: challenges, fruitful directions, out of the box ideas
 
@@ -131,6 +132,7 @@ Implications, challenges, next steps
 Report outs from group discussions
 
 Next steps
+
 
 ### 12:00 - 12:30 Retrospective
 
