@@ -38,6 +38,4 @@ Let the other workshop participants know if you'd like to share a ride and maybe
 
 ## Dinner on Friday
 
-
-## Other Things to do and See in Pittsburgh
-
+5:30-6:30 PM Reception at Hotel Monaco followed by dinner (also at Hotel Monaco)
