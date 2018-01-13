@@ -19,7 +19,7 @@ Location: Hotel Monaco
 
 On-site breakfast, provided
 
-### 8:30 - 10:30 Introduction and Lightning Talks
+### 9:00 - 11:00 Introduction and Lightning Talks
 
 To kick off the workshop, everyone will share a [5 minute (or less!) lightning talks](https://github.com/michaelkeeling/future-of-software-design-workshop-2017/blob/master/participation.md#lighting-talks).  During the lighting talks you introduce yourself and share your thoughts on the future of software design.  See the [list of thinking questions](https://github.com/michaelkeeling/future-of-software-design-workshop-2017/blob/master/participation.md#ideas-for-your-lightning-talk) for ideas and guidance.
 
@@ -35,12 +35,12 @@ Hints and tips:
 * Please share your notes with the group via the email list.  Depending on how "raw" the notes are they might be cleaned
   up, and posted together on this website.
 
-### 10:30-11:00 Break
+### 11:00-11:15 Break
 
 Snacks and coffee provided.
 
 
-### 11:00-12:30 Discussion themes, expected outcomes
+### 11:15-12:30 Discussion themes, expected outcomes
 
 During the second morning session we'll continue to iterate on ideas raised during the Lightning Talks on our way to deciding how to spend our time for the rest of the day.
 
