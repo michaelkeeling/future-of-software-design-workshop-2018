@@ -1,4 +1,4 @@
-# Future of Software Design Workshop 2017
+# Future of Software Design Workshop 2018
 
 The goal of the worksop is to formulate ideas for software design of future systems – ideas that help our community revitalize its ownership of responsible design, importance of structure and behavior systems so that they support future innovations.   We are awash in the now mainstream trends that involve AI, autonomy, data everywhere, etc.  These trends are being led largely by industry.  The real innovations are usually proprietary and profit driven.   Much of the architecture/design research community (at least as manifest in the academic conferences) continues to make safe, incremental offerings based on the foundational pillars the same community established in the past.   
 We come together to discuss and postulate about the future of design.  What are the gems – the needed pillars - of software design, what are the obstacles to realizing them, and how do they harness the mainstream trends of our milieu and project them soundly?   
