@@ -91,7 +91,7 @@ Mary	Shaw,	CMU
 
 Kevin	Sullivan,	University of Virginia
 
-Eric	Werner,	Uber
+Eric	Werner, Uber ([website](https://dotcomisnot.net) | [@ebwinpgh](https://twitter.com/ebwinpgh))
 
 Rebecca	Wirfs-Brock,	Independent
 
